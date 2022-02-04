@@ -139,7 +139,7 @@ namespace BookShop
             Console.Write("Kazanç Oranı=");
             int profitMargin = Convert.ToInt32(Console.ReadLine());
 
-            //Miktarı
+            //Miktar
             Console.Write("Kitabın Adedi=");
             int qty = Convert.ToInt32(Console.ReadLine());
 
